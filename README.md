@@ -1,8 +1,5 @@
 # TabEAE
-This is the implementation of the paper **Event Argument Extraction as Non-autoregressive Table Generation**.
-
-## Acknowledgement
-Part of the code is borrowed from the [PAIE repository](https://github.com/mayubo2333/PAIE).
+This is the official implementation of the paper **Revisiting Event Argument Extraction: Can EAE Models Learn Better When Being Aware of Event Co-occurrences?** (ACL 2023).
 
 ## Quick links
 
@@ -91,3 +88,11 @@ bash ./scripts/infer_{ace|rams|wikievent|mlee}.sh
 ```
 
 The extraction results will go into ./Infer/{ace|rams|wikievent|mlee}
+
+## Acknowledgement
+Part of the code is borrowed from the [PAIE repository](https://github.com/mayubo2333/PAIE).
+
+## Cite
+If you find our work helpful, please consider citing our paper.
+
+
