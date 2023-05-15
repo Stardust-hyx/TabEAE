@@ -1,0 +1,23 @@
+Cell_proliferation:Cell proliferate or accumulate
+Development:Anatomical Entity develop or form
+Blood_vessel_development:neovascularization or angiogenesis at Anatomical Location
+Growth:growth of Anatomical Entity
+Death:death of Anatomical Entity
+Breakdown:Anatomical Entity degraded or damaged
+Remodeling:Tissue remodeling or changes
+Synthesis:synthesis of Drug/Compound
+Gene_expression:expression of Gene and Gene ( and Gene )
+Transcription:transcription of Gene
+Protein_processing:processing of Gene product
+DNA_methylation:methylation of Entity at Site
+Metabolism:metabolism of Entity
+Catabolism:catabolism of Entity
+Phosphorylation:phosphorylation of Entity at Site
+Dephosphorylation:dephosphorylation of Entity at Site
+Pathway:Entity and Entity and Entity ( and Entity ) participate in signaling pathway or system
+Localization:Entity At Location or To Location or From Location 
+Binding:Site of Entity bind or interact with Site of Entity ( and Site of Entity )
+Regulation:Something regulate Event/Entity at Site
+Positive_regulation:Something positively regulate Event/Entity at Site
+Negative_regulation:Something negatively regulate Event/Entity at Site
+Planned_process:Something is treated with Entity and Entity ( and Entity )
