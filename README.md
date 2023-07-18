@@ -94,5 +94,18 @@ Part of the code is borrowed from the [PAIE repository](https://github.com/mayub
 
 ## Cite
 If you find our work helpful, please consider citing our paper.
-
-
+```bash
+@inproceedings{he-etal-2023-revisiting,
+    title = "Revisiting Event Argument Extraction: Can {EAE} Models Learn Better When Being Aware of Event Co-occurrences?",
+    author = "He, Yuxin  and
+      Hu, Jingyue  and
+      Tang, Buzhou",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.701",
+    pages = "12542--12556",
+}
+```bash
